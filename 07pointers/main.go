@@ -20,4 +20,4 @@ func main()  {
 }
 
 // Reference ->  &
-// Declaring -> *
+// Pointing Out -> *
