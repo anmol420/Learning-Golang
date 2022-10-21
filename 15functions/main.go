@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-	fmt.Println("Welcome To Functions In Golang")
+	fmt.Println("Welcome To Functions In Golang!")
 	greeter()
 
 	result := adder(5, 6)
